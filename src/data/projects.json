@@ -1,0 +1,27 @@
+[
+    {
+    "title": "Web Desa Gandekan - Company Profile",
+    "imageSrc": "projects/WebDesa.png",
+    "description": "A company profile website for a village in Blitar",
+    "skills": ["HTML", "Bootstrap", "JS"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+    },
+    {
+    "title": "Github User Finder using API",
+    "imageSrc": "projects/GithubSearchAPI.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Tailwind CSS"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+    },
+    {
+    "title": "Netflix Clone",
+    "imageSrc": "projects/NetflixClone.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Tailwind CSS"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+    }
+]
+
