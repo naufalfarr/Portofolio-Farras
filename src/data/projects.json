@@ -10,7 +10,7 @@
     {
     "title": "Github User Finder using API",
     "imageSrc": "projects/GithubSearchAPI.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Github user finder/search using Github API.",
     "skills": ["React", "Tailwind CSS"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
@@ -18,7 +18,7 @@
     {
     "title": "Netflix Clone",
     "imageSrc": "projects/NetflixClone.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "A Netflix website clone",
     "skills": ["React", "Tailwind CSS"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
