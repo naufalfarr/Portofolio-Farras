@@ -3,25 +3,23 @@
     "title": "Web Desa Gandekan - Company Profile",
     "imageSrc": "projects/WebDesa.png",
     "description": "A company profile website for a village in Blitar",
-    "skills": ["HTML", "Bootstrap", "JS"],
-    "demo": "https://www.example.com",
+    "skills": ["Bootstrap", "JS"],
     "source": "https://www.github.com"
     },
     {
-    "title": "Github User Finder using API",
+    "title": "Github User Finder",
     "imageSrc": "projects/GithubSearchAPI.png",
     "description": "Github user finder/search using Github API.",
     "skills": ["React", "Tailwind CSS"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://github-find-user-using-api-farras.vercel.app/",
+    "source": "https://github.com/naufalfarr/Github-Find-User-Using-Api"
     },
     {
     "title": "Netflix Clone",
     "imageSrc": "projects/NetflixClone.png",
-    "description": "A Netflix website clone",
+    "description": "Slick Netflix website clone landing page.",
     "skills": ["React", "Tailwind CSS"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/naufalfarr/NetflixCloneReact"
     }
 ]
 

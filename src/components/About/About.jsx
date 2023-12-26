@@ -38,7 +38,7 @@ return (
             <p>
                 <span className={styles.content3}>
                 <span className={styles.content5}>As a frontend developer, I  have several websites project with techstack like </span>  
-                React, Next JS, Tailwind CSS, etc.
+                React, Tailwind CSS, etc.
                 </span>
                 <span className={styles.content4}>
                 I enjoy learning something new and getting feedback to make myself better and improve.

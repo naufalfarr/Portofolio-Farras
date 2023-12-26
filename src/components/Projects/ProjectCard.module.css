@@ -7,6 +7,8 @@ border-radius: 10px;
 background: linear-gradient(180deg, #576cbc 0%, #132a53 100%);
 box-shadow: 0 16px 14px 0 #04152d;
 padding: 18px 24px;
+min-width: 345px;
+height: 525px;
 max-width: 345px;
 }
 
@@ -34,6 +36,7 @@ flex-direction: row;
 flex-wrap: wrap;
 gap: 6px;
 list-style: none;
+align-items: flex-end ;
 }
 
 .skill {
@@ -48,7 +51,9 @@ padding: 2px 22px;
 width: 100%;
 margin-top: 26px;
 display: flex;
-justify-content: space-around;
+justify-content: left;
+
+gap: 12px;
 }
 
 .link {
@@ -59,4 +64,18 @@ font-weight: 600;
 border-radius: 100px;
 background: var(--color-primary);
 padding: 1px 22px;
+}
+
+@media (max-width: 768px) {
+    .container {
+        display: flex;
+        flex-direction: column;
+        border-radius: 10px;
+        background: linear-gradient(180deg, #576cbc 0%, #132a53 100%);
+        box-shadow: 0 16px 14px 0 #04152d;
+        padding: 18px 24px;
+        min-width: 345px;
+        min-height: 345px;
+        }
+        
 }
