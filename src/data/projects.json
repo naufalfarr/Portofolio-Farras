@@ -17,7 +17,7 @@
     {
     "title": "Netflix Clone",
     "imageSrc": "projects/NetflixClone.png",
-    "description": "Slick Netflix website clone landing page.",
+    "description": "Slice Netflix website clone landing page.",
     "skills": ["React", "Tailwind CSS"],
     "source": "https://github.com/naufalfarr/NetflixCloneReact"
     }
