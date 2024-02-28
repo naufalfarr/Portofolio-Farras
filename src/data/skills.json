@@ -18,17 +18,5 @@
     {
     "title": "JavaScript",
     "imageSrc": "skills/js.png"
-    },
-    {
-    "title": "MongoDB",
-    "imageSrc": "skills/mongodb.png"
-    },
-    {
-    "title": "Next JS",
-    "imageSrc": "skills/next.png"
-    },
-    {
-    "title": "Figma",
-    "imageSrc": "skills/figma.png"
     }
 ]
