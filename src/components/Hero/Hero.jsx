@@ -14,7 +14,7 @@ export const Hero = () => {
             <div className={styles.content}>
                 <h1 className={styles.title}>Hi, I&apos;m Farras</h1>
                 <p className={styles.description}>
-                    I&apos;m an enthusiastic frontend web developer with a keen focus on creating seamless platforms with the React ecosystem.
+                    I&apos;m an IT Enthusiast with a keen focus on creating seamless digital platforms.
                 </p>
                 <button className={styles.button} onClick={handleButtonClick}>
                     Resume
