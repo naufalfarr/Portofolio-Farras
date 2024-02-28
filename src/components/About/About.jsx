@@ -37,7 +37,7 @@ return (
             {/* <h3>Backend Developer</h3> */}
             <p>
                 <span className={styles.content3}>
-                <span className={styles.content5}>As a frontend developer, I  have several websites project with techstack like </span>  
+                <span className={styles.content5}>As a IT Enthusiast, I  have several project with techstack like </span>  
                 React, Tailwind CSS, etc.
                 </span>
                 <span className={styles.content4}>
