@@ -77,15 +77,9 @@ text-align: justify;
     font-size: 100px;
 }
 
-.content1{
-    content: "\a";
-    display: inline-block;
-}
 
-.content3 {
-    content: "\a";
-    display: inline-block;
-
+.specialContent {
+    display: none;
 }
 
 
@@ -132,6 +126,15 @@ text-align: justify;
 .aboutItem p {
     font-size: 20px;
 }
+
+.specialContent {
+    display: inline;
+}
+.specialContent2 {
+    display: none;
+}
+
+
 }
 
 @media screen and (max-width: 450px) {
@@ -149,6 +152,10 @@ text-align: justify;
     font-size: 17px;
     font-weight: 100;
 }
+
+.aboutItem p {
+    text-align: justify;
+    }
 }
 
 

@@ -20,13 +20,9 @@ return (
             <div className={styles.aboutItemText}>
             {/* <h3>Frontend Developer</h3> */}
             <p>
-                <span className={styles.content1}>Hello!👋 My name is Naufal Farras and I&apos;m from Bekasi,
-                    I&apos;m currently studying Computer Engineering 
+                <span className={styles.content1}>Hello!👋 My name is <b>Naufal Farras</b><span className={styles.specialContent2}><b> Trikusuma</b></span>, you can call me <b>farras</b>, 
+                    I&apos;m currently an undergraduate Computer Engineering student 
                     at University of Brawijaya. 
-                </span>
-                <span className={styles.content2}>
-                I&apos;m a passionate learner 
-                who&apos;s always willing to learn and work across technologies.
                 </span>
             </p>
             </div>
@@ -37,11 +33,15 @@ return (
             {/* <h3>Backend Developer</h3> */}
             <p>
                 <span className={styles.content3}>
-                <span className={styles.content5}>As a IT Enthusiast, I  have several project with techstack like </span>  
-                React, Tailwind CSS, etc.
+                <span className={styles.content5}>As an IT Enthusiast, I have several project with techstack like React, Tailwind CSS, etc. </span>  
+                <span className={styles.specialContent}>I&apos;m a passionate learner 
+                who&apos;s always willing to learn and work across technologies.
                 </span>
-                <span className={styles.content4}>
-                I enjoy learning something new and getting feedback to make myself better and improve.
+                </span>
+                <span className={styles.specialContent2}>
+                I have demonstrated a strong focus on developing platforms, contributing effectively to various projects. 
+                I have enthusiasm for exploring and working with diverse technologies reflects 
+                a proactive attitude in opportunities within the tech industry.
                 </span>
             </p>
             </div>

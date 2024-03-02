@@ -320,4 +320,10 @@ margin: 0 auto;
     display: none;
 }
 
+.title {
+    font-size: 35px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+
 }
